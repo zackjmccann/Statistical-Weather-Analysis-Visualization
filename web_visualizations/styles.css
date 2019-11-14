@@ -1,0 +1,35 @@
+body {
+    background-color:grey
+}
+
+.navbar {
+    background-color: lightgrey
+}
+
+.navbar-brand {
+    color: white;
+    background: rgb(46, 94, 46);
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.nav-link {
+    color: rgb(46, 94, 46)
+}
+
+.row {
+    padding: 10px
+}
+
+.jumbotron {
+    color: white;
+    background-color:rgb(46, 94, 46);
+}
+
+.dropdown-menu {
+    background-color:lightgray
+}
+
+.dropdown-item {
+    color: rgb(46, 94, 46)
+}
