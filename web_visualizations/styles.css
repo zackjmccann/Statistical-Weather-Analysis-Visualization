@@ -45,3 +45,12 @@ body {
 #left_col_two {
     padding: 3px
 }
+
+.comp-head {
+    text-align: center;
+}
+
+.col-md img {
+    margin: auto;    
+    display: block;
+}
