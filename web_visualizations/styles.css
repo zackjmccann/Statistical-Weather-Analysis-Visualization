@@ -17,8 +17,12 @@ body {
     color: rgb(46, 94, 46)
 }
 
-.row {
+#main_cols {
     padding: 10px
+}
+
+#text-pic {
+    padding: 6px;
 }
 
 .jumbotron {
@@ -32,4 +36,12 @@ body {
 
 .dropdown-item {
     color: rgb(46, 94, 46)
+}
+
+#left_col {
+    padding: 3px
+}
+
+#left_col_two {
+    padding: 3px
 }
