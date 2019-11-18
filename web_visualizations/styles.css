@@ -54,3 +54,15 @@ body {
     margin: auto;    
     display: block;
 }
+
+#data-table {
+    color: black;
+    background-color: white;
+    margin: 10px;
+    margin-right: 200px;
+    text-align: center
+}
+
+table {
+    text-align: center
+}
